@@ -1,10 +1,12 @@
 # Hi, I'm Arjun 👋
 Computer Science student passionate about software engineering, Artificial Intelligence and Distributed systems.
 
-## 🛠 Tech Stack
-**Languages:** Java • C++ • Python • JavaScript 
-
-**Technologies:** React • Node.js • MySQL • MongoDB • Git • Docker • AWS 
+## 🛠️ Tech Stack
+**Languages:** C • C++ • Java • Python • JavaScript
+**Frontend:** HTML • CSS • React
+**Backend:** Node.js • Express.js
+**Databases:** MySQL • MongoDB
+**Tools:** Git • Docker • AWS • Linux
 
 ## 🌱 Currently Learning
 - Distributed Systems
