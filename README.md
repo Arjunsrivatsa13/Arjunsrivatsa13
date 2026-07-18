@@ -3,6 +3,7 @@ Computer Science student passionate about software engineering, Artificial Intel
 
 ## 🛠 Tech Stack
 **Languages:** Java • C++ • Python • JavaScript 
+
 **Technologies:** React • Node.js • MySQL • MongoDB • Git • Docker • AWS 
 
 ## 🌱 Currently Learning
