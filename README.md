@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hi, I'm Arjun 👋
+Computer Science student passionate about software engineering, Artificial Intelligence and Distributed systems.
 
+## 🛠 Tech Stack
+**Languages:** Java • C++ • Python • JavaScript 
+**Technologies:** React • Node.js • MySQL • MongoDB • Git • Docker • AWS 
+
+## 🌱 Currently Learning
+- Distributed Systems
+- System Design
+- Machine Learning
+
+## 📫 Connect
+https://www.linkedin.com/in/a-arjun-sai-srivatsa-239a90360/
 <!--
 **Arjunsrivatsa13/Arjunsrivatsa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
