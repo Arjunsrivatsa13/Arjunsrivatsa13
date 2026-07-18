@@ -3,10 +3,8 @@ Computer Science student passionate about software engineering, Artificial Intel
 
 ## 🛠️ Tech Stack
 **Languages:** C • C++ • Java • Python • JavaScript
-**Frontend:** HTML • CSS • React
-**Backend:** Node.js • Express.js
-**Databases:** MySQL • MongoDB
-**Tools:** Git • Docker • AWS • Linux
+
+**Technologies:** HTML • CSS • React • Node.js • Express.js • MySQL • MongoDB • Git • Docker • AWS • Linux
 
 ## 🌱 Currently Learning
 - Distributed Systems
