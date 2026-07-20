@@ -37,6 +37,10 @@ Focus      : Backend | AI | Machine Learning
 Learning  : Distributed Systems
 Editor    : VS Code
 Status    : Building Cool Stuff 🚀
+
+## 🌐 Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/arjun-srivatsa
 ```
 <!--
 **Arjunsrivatsa13/Arjunsrivatsa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
