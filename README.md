@@ -2,7 +2,7 @@
 
 # 🛰️ BIOLOGICAL NODE PARAMETERS (ABOUT ME)
 
-I am an Information Science & Engineering student from India,
+I am an Computer Science & Engineering student from India,
 passionate about building scalable backend systems, AI-powered
 applications, and software that solves real-world problems.
 
