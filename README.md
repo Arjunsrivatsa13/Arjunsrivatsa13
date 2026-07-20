@@ -1,18 +1,43 @@
-# Hi, I'm Arjun 👋
-Computer Science student passionate about software engineering, Artificial Intelligence and Distributed systems.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/71dfe116-89f2-4c58-b9ed-3939cc65e158" />
 
-## 🛠️ Tech Stack
-**Languages:** C • C++ • Java • Python • JavaScript
+# 🛰️ BIOLOGICAL NODE PARAMETERS (ABOUT ME)
 
-**Technologies:** HTML • CSS • React • Node.js • Express.js • MySQL • MongoDB • Git • Docker • AWS • Linux
+I am an Information Science & Engineering student from India,
+passionate about building scalable backend systems, AI-powered
+applications, and software that solves real-world problems.
 
-## 🌱 Currently Learning
-- Distributed Systems
-- System Design
-- Machine Learning
+- 🚀 Current Focus: Java, LeetCode, Codeforces & Backend Development
+- 🧠 Learning: Distributed Systems, Machine Learning & Cloud
+- 💡 Goal: Build impactful software and technology startups
 
-## 📫 Connect
-https://www.linkedin.com/in/a-arjun-sai-srivatsa-239a90360/
+---
+
+# 🧠 CORE SYSTEM SPECS (TECH STACK)
+
+• Languages: `Java` `Python` `JavaScript` `SQL`
+
+• Backend: `Spring Boot` `Node.js` `Express`
+
+• Database: `MySQL` `MongoDB`
+
+• AI/ML: `PyTorch` `TensorFlow`
+
+• Tools: `Git` `Docker` `Linux` `VS Code`
+
+---
+
+# ⚙️ SYSTEM STATUS (/dev/status)
+
+```text
+arjun@terminal
+--------------------------
+Role      : Software Engineer
+Language  : Java
+Focus      : Backend | AI | Machine Learning
+Learning  : Distributed Systems
+Editor    : VS Code
+Status    : Building Cool Stuff 🚀
+```
 <!--
 **Arjunsrivatsa13/Arjunsrivatsa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
