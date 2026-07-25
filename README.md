@@ -42,9 +42,5 @@ Status    : Building Cool Stuff 🚀
 
 - **LinkedIn:https://www.linkedin.com/in/a-arjun-sai-srivatsa-239a90360/
 
-- ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arjunsrivatsa13/Arjunsrivatsa13/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
