@@ -1,35 +1,23 @@
-name: Update jet heatmap SVG
+name: Update Space Shooter Game
 
 on:
   schedule:
-    # Runs once a day at 05:30 UTC. Adjust as you like.
-    - cron: "30 5 * * *"
-  workflow_dispatch: {}
+    - cron: '0 0 * * *' # Updates daily at midnight UTC
+  workflow_dispatch:      # Allows manual trigger anytime
 
 permissions:
-  contents: write
+  contents: write         # Allows the bot to commit game.gif to your repo
 
 jobs:
-  build:
+  update-game:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Set up Node
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v6
         with:
-          node-version: 20
+          fetch-depth: 2   # Required to update cleanly without repository bloat
 
-      - name: Generate SVG
-        env:
-          GH_USERNAME: ${{ github.repository_owner }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OUTPUT_PATH: dist/github-jet.svg
-        run: node generate.mjs
-
-      - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: czl9707/gh-space-shooter@v2
         with:
-          commit_message: "chore: update jet heatmap SVG"
-          file_pattern: dist/github-jet.svg
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'
+          strategy: 'random'
