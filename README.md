@@ -44,7 +44,7 @@ Status    : Building Cool Stuff 🚀
 
 # ⚡ CONTRIBUTION GRAPH
 
-![GitHub jet heatmap](https://raw.githubusercontent.com/Arjunsrivatsa13/Arjunsrivatsa13/main/dist/github-jet.svg)
+![GitHub Contribution Space Shooter](game.gif)
 
 
 
