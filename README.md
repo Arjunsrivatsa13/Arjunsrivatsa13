@@ -42,6 +42,8 @@ Status    : Building Cool Stuff 🚀
 
 - **LinkedIn:https://www.linkedin.com/in/a-arjun-sai-srivatsa-239a90360/
 
+# ⚡ CONTRIBUTION GRAPH
+
 ![GitHub Contribution Space Shooter](game.gif)
 
 
