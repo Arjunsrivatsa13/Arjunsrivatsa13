@@ -40,7 +40,7 @@ Status    : Building Cool Stuff 🚀
 ```
 ## 🌐 Connect
 
-- **LinkedIn:https://www.linkedin.com/in/a-arjun-sai-srivatsa-239a90360/
+- **LinkedIn:https://www.linkedin.com/in/arjun-sai-srivatsa-239a90360/
 
 # ⚡ CONTRIBUTION GRAPH
 
