@@ -6,7 +6,7 @@ I am an Computer Science & Engineering student from India,
 passionate about building scalable backend systems, AI-powered
 applications, and software that solves real-world problems.
 
-- 🚀 Current Focus: Java & Backend Development
+- 🚀 Current Focus: Java & Backend Development 
 - 🧠 Learning: Distributed Systems, Machine Learning & Cloud 
 - 💡 Goal: Build impactful software and Solving Real world problems
 
