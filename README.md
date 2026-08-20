@@ -12,7 +12,7 @@ applications, and software that solves real-world problems.
 
 ---
 
-# 🧠 CORE SYSTEM SPECS (TECH STACK) 
+# 🧠 CORE SYSTEM SPECS (TECH STACK)  
 
 • Languages: `Java` `Python` `JavaScript` `SQL`
 
