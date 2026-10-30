@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/71dfe116-89f2-4c58-b9ed-3939cc65e158" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/71dfe116-89f2-4c58-b9ed-3939cc65e158" /> 
 
 # 🛰️ BIOLOGICAL NODE PARAMETERS (ABOUT ME) 
 
